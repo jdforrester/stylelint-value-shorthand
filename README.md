@@ -4,7 +4,7 @@
 
 A [stylelint](https://github.com/stylelint/stylelint) custom rule to enforce use of shorthand values.
 
-This rule will cause stylelint to warn you whenever an the preferred convention is not used.
+This rule will cause stylelint to warn you whenever the preferred convention is not used.
 
 ## Installation
 
